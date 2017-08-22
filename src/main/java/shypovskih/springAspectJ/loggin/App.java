@@ -3,7 +3,7 @@ package shypovskih.springAspectJ.loggin;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import shypovskikh.SpringAspectJ.service.SomeService;
+import shypovskikh.SpringAspectJ.Service.SomeService;
 
 /**
  * Hello world!
